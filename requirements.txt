@@ -1,7 +1,7 @@
 transformers
-torch
-torchvision
-torchaudio
+torch==2.3.0
 accelerate
 sentencepiece
 bitsandbytes
+nltk
+spacy
